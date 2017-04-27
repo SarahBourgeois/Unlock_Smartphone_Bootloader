@@ -1,20 +1,20 @@
 # UNLOCKED BOOTLOADER OF YOUR PHONE			
 ___
 
-######  Why unlock bootloader of your phone  ? 
+### Why unlock bootloader of your phone  ? 
 To root it after of course or install a recovery custom etc
 
-###### Cautions 
+### Cautions 
 Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YOUR DATA before !!!
 
 
-###### Requirements 
+### Requirements 
 1) Download release of this project 
 2) unzip folder named unlock_software 
 3) obtain official code of bootloader if if your model phone need that (explain here)
 4) launch "unlocked_your_phone.bat (explain here)
 
-##### Getting started
+### Getting started
 
 Step 3 : (example for huawei phone) 
 ===========================================
