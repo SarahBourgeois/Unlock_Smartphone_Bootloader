@@ -16,7 +16,7 @@ Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YO
 
 ##### Getting started
 
-###### Step 3 : (example for huawei phone) 
+Step 3 : (example for huawei phone) 
 ===========================================
 If your phone need an unlock code (like Huawei phone) do this :
 
@@ -47,7 +47,7 @@ You'll receive a mail from huawei. It can be quite long (around 3 days).
 Well done. You have your code to unlock your bootloader ! 
 
  
-###### Step 4 : launch the .bat file
+ Step 4 : launch the .bat file
 ===========================================
 Really simple step : 
 - double click on the file names "unlocked_your_phone.bat" (don't change its path)
