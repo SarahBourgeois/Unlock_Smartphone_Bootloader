@@ -9,12 +9,16 @@ Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YO
 
 
 ### Requirements 
-1) Download release of this project 
+1) Download release
 2) unzip folder named unlock_software 
 3) obtain official code of bootloader if if your model phone need that (explain here)
 4) launch "unlocked_your_phone.bat (explain here)
 
-### Getting started
+
+Step 1 and 2 : 
+===========================================
+1) You have to download the last release  in your computer. 
+2) Open the folder. There is a folder names unlock_software. You have to unzip it !
 
 Step 3 : (example for huawei phone) 
 ===========================================
