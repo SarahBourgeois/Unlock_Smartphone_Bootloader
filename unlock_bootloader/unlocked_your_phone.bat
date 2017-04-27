@@ -1,5 +1,5 @@
 @echo off
-:explication 1 : installer
+:cautions  : installer
 echo.
 echo PLEASE READ THE FILE : README.txt INCLUDE IN THE PACKAGE PLEASE ! 
 echo ==========================================================================
@@ -16,7 +16,7 @@ echo Done. Tape ENTER
 pause > nul
 cls
 echo.
-:explication 2 : usb debugging
+:connect_phone : usb debugging
 echo  ====== IMPORTANT TO CONTINUE ==========
 echo Please enable USB-DEBUGGING before to start 
 echo To activate this : About phone > touch 7 ti/me serial number : you're now a developer
