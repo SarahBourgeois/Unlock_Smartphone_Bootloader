@@ -10,17 +10,16 @@ Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YO
 
 ### Requirements 
 1) Download release
-2) unzip folder named unlock_software 
-3) obtain official code of bootloader if if your model phone need that (explain here)
-4) launch "unlocked_your_phone.bat (explain here)
+2) obtain official code of bootloader if if your model phone need that (explain here)
+3) launch "unlocked_your_phone.bat (explain here)
 
 
-Step 1 and 2 : 
+Step 1 
 ===========================================
-1) You have to download the last release  in your computer. 
-2) Open the folder. There is a folder names unlock_software. You have to unzip it !
+ You have to download the release named unlock_bootloader.zip on : Script_for_Android_phone">release in your computer.
 
-Step 3 : (example for huawei phone) 
+
+Step 2 : (example for huawei phone) 
 ===========================================
 If your phone need an unlock code (like Huawei phone) do this :
 
@@ -51,7 +50,7 @@ You'll receive a mail from huawei. It can be quite long (around 3 days).
 Well done. You have your code to unlock your bootloader ! 
 
  
- Step 4 : launch the .bat file
+ Step 3 : launch the .bat file
 ===========================================
 Really simple step : 
 - double click on the file names "unlocked_your_phone.bat" (don't change its path)
