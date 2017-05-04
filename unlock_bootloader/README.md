@@ -2,7 +2,8 @@
 ___
 
 ### Why unlock bootloader of your phone  ? 
-To root it after of course or install a recovery custom etc
+The bootloader of a lot of models phones are locked. And you have to unlock it if you want to root your phone or install a custom rom etc.
+I'll take the example of Huawei phone.
 
 ### Cautions 
 Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YOUR DATA before !!!
