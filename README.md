@@ -10,7 +10,7 @@ Unlock your phone supposed ALL DATA will be delete on your device. So... SAVE YO
 
 
 ### Requirements 
-1) Download release
+1) Download release named :  unlock_bootloader_V.*.*.*.zip
 2) obtain official code of bootloader if if your model phone need that (explain here)
 3) launch "unlocked_your_phone.bat (explain here)
 
@@ -54,7 +54,7 @@ Well done. You have your code to unlock your bootloader !
  Step 3 : launch the .bat file
 ===========================================
 Really simple step : 
-- double click on the file names "unlocked_your_phone.bat" (don't change its path)
+- double click on the file names "unlocked_your_phone.bat" (don't change its path) include in the zip folder (release project you have to download)
 - and follow the explications ! 
 
 Unlock good :) !
